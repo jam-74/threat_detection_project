@@ -1,0 +1,7 @@
+my plan: breakdown:
+
+number 1:
+make wireshark safely
+
+
+python:

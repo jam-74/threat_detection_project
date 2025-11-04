@@ -1,5 +1,5 @@
 # first project
 
-###will hopefully start making good proggress
+### will hopefully start making good proggress
 ### (the project is in its introductory planning stage)
-#### will continue in mid november and finish by december or early january
+#### (will continue in mid november and finish by december or early january

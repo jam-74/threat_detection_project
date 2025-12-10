@@ -3,4 +3,4 @@
 ### will hopefully start making good proggress
 ### (the project is in its introductory planning stage)
 #### (will continue in mid december and finish by early january)
-#### (will begin this project on 13th december)
+#### (will begin this project on 15th december)
